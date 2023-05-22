@@ -1,0 +1,15 @@
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.deps.json
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.runtimeconfig.json
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.dll
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.pdb
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.dll
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/refint/HelloWorld.dll
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.pdb
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/Release/net7.0/ref/HelloWorld.dll
