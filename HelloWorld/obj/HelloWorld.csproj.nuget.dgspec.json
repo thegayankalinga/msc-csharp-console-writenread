@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gayan/Developer/C#/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/Users/gayan/Developer/C_Sharp/HelloWorld/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/gayan/Developer/C#/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/Users/gayan/Developer/C_Sharp/HelloWorld/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gayan/Developer/C#/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/gayan/Developer/C_Sharp/HelloWorld/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/gayan/Developer/C#/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/gayan/Developer/C_Sharp/HelloWorld/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/gayan/.nuget/packages/",
-        "outputPath": "/Users/gayan/Developer/C#/HelloWorld/HelloWorld/obj/",
+        "outputPath": "/Users/gayan/Developer/C_Sharp/HelloWorld/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gayan/.nuget/NuGet/NuGet.Config"

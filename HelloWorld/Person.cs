@@ -24,8 +24,8 @@ namespace HelloWorld
 		}
 
 		public void printDetail()
-		{
-			Console.Out.WriteLine(name!.ToUpperInvariant());
+        {
+			Console.Out.WriteLine(name);
             Console.Out.WriteLine(age);
             Console.Out.WriteLine(email);
             Console.Out.WriteLine(addressLine01);
